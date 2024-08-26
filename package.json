@@ -1,0 +1,18 @@
+{
+  "name": "face-detect",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "keywords": [],
+  "author": "DoNgocDong",
+  "license": "ISC",
+  "dependencies": {
+    "canvas": "^2.11.2",
+    "dotenv": "^16.4.5",
+    "face-api.js": "^0.22.2",
+    "p-map": "^4.0.0"
+  }
+}
